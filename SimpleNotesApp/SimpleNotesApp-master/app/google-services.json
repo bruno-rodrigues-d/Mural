@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749480446157",
+    "firebase_url": "https://mural-ae1fb.firebaseio.com",
+    "project_id": "mural-ae1fb",
+    "storage_bucket": "mural-ae1fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749480446157:android:43dd41d382d9cc0b",
+        "android_client_info": {
+          "package_name": "example.androidgrid.simplenotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749480446157-raqdh053k15eb6ouce0ff5prca9lb40m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.androidgrid.simplenotesapp",
+            "certificate_hash": "1c41f735f853dc8b677dfa20edb5a317d7947179"
+          }
+        },
+        {
+          "client_id": "749480446157-kthfrm1hote716othiksl2bgu28bltgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppTnrl0QKd15Ify6_Dy2W_g6LAJ1wp6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749480446157-kthfrm1hote716othiksl2bgu28bltgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

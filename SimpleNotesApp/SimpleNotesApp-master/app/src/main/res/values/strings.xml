@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mural</string>
+    <string name="register">Registre</string>
+    <string name="sing_in">Entre</string>
+</resources>
