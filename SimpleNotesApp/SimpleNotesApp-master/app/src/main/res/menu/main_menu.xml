@@ -7,9 +7,6 @@
         android:icon="@drawable/ic_add_white_24dp"
         android:title="New note"
         app:showAsAction="always" />
-    <item
-        android:id="@+id/btn_sair"
-        android:icon="?attr/actionModeBackground"
-        android:title="Logout" />
+  
 
 </menu>
